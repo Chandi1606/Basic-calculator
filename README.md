@@ -22,7 +22,8 @@ A simple calculator web app built with HTML, CSS, and JavaScript. It performs ba
 ## 🛠️ Technologies Used
 
 - **HTML** – for structure  
-- **CSS** – for styling  
+- **CSS** – for styling
+- **Bootstrao** framework
 - **JavaScript** – for functionality
 
 ---
